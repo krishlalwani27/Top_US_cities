@@ -26,25 +26,25 @@ Install BeautifulSoup using pip3
 
 Open up the terminal and enter the following command
 ```
-pip3 install bs4
+$ pip3 install bs4
 ```
 
 Install requests using pip3
 ```
-pip3 install requests
+$ pip3 install requests
 ```
 
 
 Install lxml using pip3
 ```
-pip3 install lxml
+$ pip3 install lxml
 ```
 
 ## Deployment
 
 Once all the prerequisites are in place, navigate to where the file 'cities.py' is saved on the local machine and run the following command on terminal
 ```
-python3 cities.py
+$ python3 cities.py
 ```
 
 An output file named 'output.csv' will be created in the same directory as 'cities.py'
