@@ -3,7 +3,7 @@ import requests
 from unicodedata import normalize
 import re
 
-op = open('/Users/krish/Desktop/output.csv','w')
+op = open('output.csv','w')
 print('Name,State,Population,Area,Density,Timezone,Co-ordinates,Elevation',file=op)
 
 # URL to the top US cities page
